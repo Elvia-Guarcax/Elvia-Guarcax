@@ -1,0 +1,32 @@
+table{
+    border-collapse: collapse;
+    margin: 15px;
+}
+th{
+    background-color: rgb(37, 153, 153);
+    color: aliceblue;
+    border: solid 2px black;
+    padding: 18px;
+}
+td{
+    background-color: blueviolet;
+    color: aliceblue;
+    border: solid 2px black;
+    padding: 18px;
+}
+body{
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(229,70,252,1) 51%);
+}
+ul{
+    padding: 0;
+    margin: 0 ;
+    list-style-type: none;
+    font-size: 15px;
+}
+li{
+    background-color: red;
+    margin: 15px;
+    padding: 8px;
+    display: inline-block;  
+}
